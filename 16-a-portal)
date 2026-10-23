@@ -1,0 +1,29 @@
+16-a-portal/
+├── .env
+├── index.html
+├── package.json
+├── server.ts
+├── tsconfig.json
+├── vite.config.ts
+└── src/
+    ├── App.tsx
+    ├── index.css
+    ├── main.tsx
+    ├── data/
+    │   └── constants.ts
+    ├── types/
+    │   └── index.ts
+    ├── utils/
+    │   └── markdown.ts
+    └── components/
+        ├── AboutPA.tsx
+        ├── AuthModal.tsx
+        ├── ChatArea.tsx
+        ├── ChatInput.tsx
+        ├── CodePreviewModal.tsx
+        ├── FreeGuideModal.tsx
+        ├── Header.tsx
+        ├── MediaDownloader.tsx
+        ├── PersonaModal.tsx
+        ├── Sidebar.tsx
+        └── TelegramSyncModal.tsx
